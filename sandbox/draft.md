@@ -1,22 +1,24 @@
 # SPELWork: A Systemic Process Evaluation Lattice Framework
 
 ## Core Concept
-SPELWork is an open-source framework for evaluating organizational processes through a lattice structure that maps interconnections, flows, and outcomes. The framework approaches process design and evaluation as intentional acts of manifestation within systems, focusing on how clearly defined wishes translate into organizational reality.
+SPELWork is an design framework for organizational process mapping across interconnections, flows, and outcomes. The framework approaches process design and evaluation as intentional acts of manifestation within systems, focusing on how clearly defined "wishes", or jobs to be done, translate into organizational reality.
 
 ## The SPELWork Approach
 
-### 1. Wish Definition (Process Foundation)
-At the foundation of SPELWork is clear wish definition. Organizations must articulate the precise wishes behind each process:
+### 1. A wish is a dream the heart makes
+At the foundation of SPELWork is clear wish definition. Wishes, or intentions, or search terms, or events, or however wants to define a thing is a trigger that kicks off the structure of the system as it builds a response.   
 
-- **Wish Clarity**: Explicit statements of desired outcomes
-- **Wish Coherence**: Ensuring wishes are free from contradictions
-- **Wish Alignment**: Connecting process wishes with broader organizational values
-- **Wish Documentation**: Recording wishes in systematic, accessible formats
+Organizations must articulate the precise wishes behind each process:
+
+- **Wish Clarity**: What is the clearest way a wish can be articulated in the system?
+- **Wish Coherence**: Now what are the ways the system can define a wish knowing what it knows about an actor in the system?
+- **Wish Alignment**: Is the wish something the artificer CAN do, and if it is possible, is it in the best interests of the organization to grant the actor their boon?
+- **Wish Documentation**: Wishes should be tracked and measured with 
 - **Expert-Guided Definition**: Facilitated workshops led by process experts to articulate wishes
 - **Knowledge Elicitation**: Techniques to capture tacit expertise from experienced practitioners
 - **Cross-Functional Reviews**: Ensuring wishes reflect diverse perspectives and expertise
 
-### 2. Boundary Setting (System Context)
+### 2. Domains of expertise versus Domination of expertise
 Every process exists within defined boundaries that must be established:
 
 - **Domain Mapping**: Defining where processes begin and end
@@ -54,7 +56,7 @@ Assessing how wishes materialize into results:
 ## Technical Implementation
 
 ### Lattice Structure
-- **Graph Database Core**: Neo4j implementation capturing process relationships
+- **Source of truth**: There has to be an understanding of where the implementation determines how to capture process relationships
 - **Node Types**: Wishes, activities, resources, outcomes, and boundaries
 - **Edge Types**: Energy flows, transformations, dependencies, and feedback loops
 - **Multidimensional Attributes**: Element correspondences mapped to each node
@@ -216,6 +218,7 @@ Ethics within SPELWork refers to principled examination of which wishes should b
 - **Benefit Distribution**: How equitably the value created is shared
 - **Harm Mitigation**: Processes for addressing negative outcomes
 - **Truth in Reporting**: Honest assessment and communication of results
+- **Gatekeeper bias**: The right to arbitrate an outcome with both the system and it's human authority.
 
 ### Bias Definition and Management
 
@@ -227,6 +230,7 @@ Bias in SPELWork refers to systematic deviations from fair, balanced, or accurat
 - **Power Imbalance Bias**: Differences in decision-making authority
 - **Visibility Bias**: Uneven transparency across different parts of the lattice
 - **Priority Bias**: Systematic favoritism toward certain types of wishes
+- **Access Bias**: The system should serve people of both diverse abilities and backgrounds, and also access to technology.
 
 #### 2. **Data and Measurement Bias**
 *Distortions in how processes are evaluated*

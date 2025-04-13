@@ -1,4 +1,4 @@
-# Spelwork Framework: Next Steps and Discussion Guide
+# SPELWork Framework: Next Steps and Discussion Guide
 
 ## Immediate Next Steps
 
@@ -36,14 +36,14 @@
 
 ### Framework Overview Session
 
-**Purpose**: Introduce key stakeholders to the Spelwork framework and gather initial feedback
+**Purpose**: Introduce key stakeholders to the SPELWork framework and gather initial feedback
 
 **Format**: 2-hour facilitated workshop with cross-functional participation
 
 **Agenda**:
 
 1. **Introduction and Context** (15 minutes)
-   - Background and motivation for developing Spelwork
+   - Background and motivation for developing SPELWork
    - Current challenges in process evaluation and improvement
    - Vision for a more integrated, human-centered approach
 
@@ -74,7 +74,7 @@
 
 ### Implementation Planning Session
 
-**Purpose**: Develop concrete plans for piloting the Spelwork framework in specific organizational contexts
+**Purpose**: Develop concrete plans for piloting the SPELWork framework in specific organizational contexts
 
 **Format**: Half-day workshop with potential implementation teams
 
@@ -175,4 +175,4 @@
 - Academic research partnerships
 - Industry standards alignment and certification
 
-This comprehensive approach to Spelwork development ensures that the framework evolves based on real-world feedback while maintaining its core principles of human-centered process evaluation and improvement.
+This comprehensive approach to SPELWork development ensures that the framework evolves based on real-world feedback while maintaining its core principles of human-centered process evaluation and improvement.
