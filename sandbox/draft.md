@@ -1,12 +1,12 @@
-# Spelwork: A Systemic Process Evaluation Lattice Framework
+# SPELWork: A Systemic Process Evaluation Lattice Framework
 
 ## Core Concept
-Spelwork is an open-source framework for evaluating organizational processes through a lattice structure that maps interconnections, flows, and outcomes. The framework approaches process design and evaluation as intentional acts of manifestation within systems, focusing on how clearly defined wishes translate into organizational reality.
+SPELWork is an open-source framework for evaluating organizational processes through a lattice structure that maps interconnections, flows, and outcomes. The framework approaches process design and evaluation as intentional acts of manifestation within systems, focusing on how clearly defined wishes translate into organizational reality.
 
-## The Spelwork Approach
+## The SPELWork Approach
 
 ### 1. Wish Definition (Process Foundation)
-At the foundation of Spelwork is clear wish definition. Organizations must articulate the precise wishes behind each process:
+At the foundation of SPELWork is clear wish definition. Organizations must articulate the precise wishes behind each process:
 
 - **Wish Clarity**: Explicit statements of desired outcomes
 - **Wish Coherence**: Ensuring wishes are free from contradictions
@@ -75,8 +75,8 @@ Assessing how wishes materialize into results:
 - **Energy Containment**: Preventing process issues from affecting other areas
 
 ### Human Oversight
-- **Elder Council**: Human reviewers for complex process decisions
-- **Arbitration Circles**: Structured spaces for resolving process conflicts
+- **Expert Councils**: Human reviewers for complex process decisions
+- **Arbitration Circles**: Structured processes for users to seek and resolve process conflicts
 - **Divination Tools**: Analytics for detecting unmet wishes and misalignments
 - **Wisdom Capture**: Learning systems for improving process knowledge
 
@@ -106,7 +106,7 @@ Assessing how wishes materialize into results:
 - **Scrying Patterns**: Predictive analytics for potential wish failures
 
 ## Implementation Approach
-The open-source Spelwork framework would include:
+The open-source SPELWork framework would include:
 
 1. Core data models and schemas for the process lattice
 2. Visualization libraries for different views of the system
@@ -121,7 +121,7 @@ The framework embraces both the technical rigor of systems engineering and an in
 
 ## Contributor Recognition and Attribution System
 
-Spelwork includes a robust system for recognizing and rewarding contributors to the framework and process lattice, ensuring long-term sustainability and engagement:
+SPELWork includes a robust system for recognizing and rewarding contributors to the framework and process lattice, ensuring long-term sustainability and engagement:
 
 ### Attribution Mechanisms
 - **Digital Signatures**: Permanent attribution of lattice contributions to specific individuals or teams
@@ -132,7 +132,7 @@ Spelwork includes a robust system for recognizing and rewarding contributors to 
 ### Reward Structures
 - **Recognition Leaderboards**: Highlighting valuable contributors across different dimensions
 - **Expertise Credentialing**: Formal acknowledgment of demonstrated domain expertise
-- **Community Roles**: Earned positions of responsibility within the Spelwork community
+- **Community Roles**: Earned positions of responsibility within the SPELWork community
 - **Usage Analytics**: Showing contributors how widely their contributions are being applied
 - **Case Study Features**: Highlighting successful implementations of contributor concepts
 
@@ -151,7 +151,7 @@ Spelwork includes a robust system for recognizing and rewarding contributors to 
 
 ## Enterprise Trust Framework
 
-Trust is fundamental to effective organizational processes, serving as the invisible foundation upon which wishes can manifest. Within Spelwork, trust is defined and measured across multiple dimensions:
+Trust is fundamental to effective organizational processes, serving as the invisible foundation upon which wishes can manifest. Within SPELWork, trust is defined and measured across multiple dimensions:
 
 ### Core Trust Dimensions
 
@@ -192,7 +192,7 @@ Trust is fundamental to effective organizational processes, serving as the invis
 
 ## Ethics and Bias Framework
 
-Ethics within Spelwork refers to principled examination of which wishes should be pursued, how processes should be designed, and how outcomes should be evaluated.
+Ethics within SPELWork refers to principled examination of which wishes should be pursued, how processes should be designed, and how outcomes should be evaluated.
 
 ### Core Ethical Dimensions
 
@@ -219,7 +219,7 @@ Ethics within Spelwork refers to principled examination of which wishes should b
 
 ### Bias Definition and Management
 
-Bias in Spelwork refers to systematic deviations from fair, balanced, or accurate process design and execution, categorized as:
+Bias in SPELWork refers to systematic deviations from fair, balanced, or accurate process design and execution, categorized as:
 
 #### 1. **Structural Bias**
 *Built into the fundamental design of the lattice*
@@ -244,7 +244,7 @@ Bias in Spelwork refers to systematic deviations from fair, balanced, or accurat
 
 ## Bad Actor Protection Framework
 
-Within Spelwork, bad actors are entities that intentionally or unintentionally undermine the integrity of the wish fulfillment process.
+Within SPELWork, bad actors are entities that intentionally or unintentionally undermine the integrity of the wish fulfillment process.
 
 ### Typology of Bad Actors
 
@@ -252,7 +252,7 @@ Within Spelwork, bad actors are entities that intentionally or unintentionally u
 *Deliberately subverting processes for personal gain or harm*
 - **Wish Manipulators**: Those who introduce harmful wishes disguised as beneficial ones
 - **Process Saboteurs**: Actors who deliberately disrupt or damage process execution
-- **Resource Misappropriators**: Individuals diverting resources away from intended uses
+- **Resource Misappropriates**: Individuals diverting resources away from intended uses
 - **Data Falsifiers**: Those who provide false information to skew process outcomes
 
 #### 2. **Self-Serving Optimizers**
@@ -284,7 +284,7 @@ Within Spelwork, bad actors are entities that intentionally or unintentionally u
 
 ## End-User Data Management Framework
 
-The Spelwork framework recognizes that end users must have agency over their data within organizational process lattices.
+The SPELWork framework recognizes that end users must have agency over their data within organizational process lattices.
 
 ### Core Principles of User Data Agency
 
@@ -318,4 +318,4 @@ The Spelwork framework recognizes that end users must have agency over their dat
 - **Per-Wish Settings**: Ability to specify different handling for different wishes
 - **Graduated Removal Process**: Systematic approach to removing user data while preserving system integrity
 
-This comprehensive Spelwork framework provides organizations with a powerful approach to process evaluation and improvement that centers human expertise, respects user data, builds trust, and delivers ethical, unbiased outcomes.
+This comprehensive SPELWork framework provides organizations with a powerful approach to process evaluation and improvement that centers human expertise, respects user data, builds trust, and delivers ethical, unbiased outcomes.
